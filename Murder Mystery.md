@@ -1,18 +1,29 @@
-# Murder Mystery/ Treasure Hunt
+# Murder Case File (Who is Lying?)
 
 ### Time 
- - Saturday/ Sunday in Spring quarter
+ - Second/Third Saturday/ Sunday in Spring quarter
  
 ### Plan for activities
- - Find the camera at UW quad (easy)
- - Connect Four computer game (probably NO)
- - Machine Learning Image of Burke Museum Puzzles (guarantee)
- - Fortune Cookie for hidden clue or revealing answers (begining or end) or (riddle) (guarantee)
+
+#### Main Mission
+ - Murder Case of Jamie Banks
+
+#### Side Mission
+ - Find the camera at UW quad
+ - Machine Learning Image of Burke Museum Puzzles
+ - Treasure Hunt in Burke Museum (time is the key)
+
+##### For Fun
+ - Fortune Cookie for hidden clue or revealing answers (begining or end) or (riddle)
  
 ### Plan for Places
- - Center Table/ Local Point at beginning
+ - Center Table/ Local Point at beginning (for lunch)
  - Burke Museum
- - hub?
+ - Willow Hall Study Room
+
+### Items to prepare
+ - main food: Chipotle
+ - snacks from H mart
 
 ### Participants
 #### Lilly Young
