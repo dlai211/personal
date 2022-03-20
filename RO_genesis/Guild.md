@@ -6,7 +6,7 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
 ## Guild Contribution/Fund
   - 3 Methods of Obtaining Guild Power and Fund: Heart of Guild, the Proof of Spacetime, and the Memorial Emblem.
   - Personal Daily Theoretical Maximum
-    - 
+    - unknown
 ## Guild Event
  - Time-Space event, Guild Hunting, Guild Banquet, Guild Battle
 ### Guild Time-Space Event
