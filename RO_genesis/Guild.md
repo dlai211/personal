@@ -3,14 +3,14 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
  - 609,100,000/945,900,000
 
 ## Guild Members and discord
-  - [Genesis Guild Management](https://docs.google.com/spreadsheets/d/18coYF1I-POPsKH_O7OenCPclVMi5F6l3SML-MNdXHog/edit#gid=0)
+  - [Genesis Guild Management link](https://docs.google.com/spreadsheets/d/18coYF1I-POPsKH_O7OenCPclVMi5F6l3SML-MNdXHog/edit#gid=0)
  
 ## Guild Contribution/Fund
   - 3 Methods of Obtaining Guild Power and Fund: Heart of Guild, the Proof of Spacetime, and the Memorial Emblem.
   - Personal Daily Theoretical Maximum
     - 80 Commission Tickets (6-8 Hearts of Guild) + time-space event (1-2 Proof of Spacetime) + Guild Hunt (unknown)
 ## Guild Event
- - Time-Space event, Guild Hunting, Guild Banquet, Guild Battle
+ - Time-Space event, Guild Hunting, Guild Banquet, Guild Battle, War of Emperium
 ### Guild Time-Space Event
  - Requirement: 
    - Players **above lvl.60** allows to start the mission
