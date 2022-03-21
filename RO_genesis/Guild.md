@@ -1,6 +1,6 @@
 # Guild
 Guild Fund to Level 3 Current Progress (03/20/2022): 
- - 609,100,000/945,900,000
+ - 624,700,000/945,900,000
 
 ## Guild Members and discord
   - [Genesis Guild Management link](https://docs.google.com/spreadsheets/d/18coYF1I-POPsKH_O7OenCPclVMi5F6l3SML-MNdXHog/edit#gid=0)
