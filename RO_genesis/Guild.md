@@ -1,6 +1,6 @@
 # Guild
 Guild Fund to Level 3 Current Progress (03/20/2022): 
- - 624,700,000/945,900,000
+ - 700,000,000/945,900,000
 
 ## Guild Members and discord
   - [Genesis Guild Management link](https://docs.google.com/spreadsheets/d/18coYF1I-POPsKH_O7OenCPclVMi5F6l3SML-MNdXHog/edit#gid=0)
@@ -13,11 +13,14 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
  - Time-Space event, Guild Hunting, Guild Banquet, Guild Battle, War of Emperium
 ### Guild Time-Space Event
  - Requirement: 
-   - Players **above lvl.60** allows to start the mission
+   - Players **above lvl.50** allows to start the mission
    - Need to form a party with at least a number of 2 **guild** memebers whom are **above lvl.50**.
  - Time: Everyday 12:00 - 21:00 (PST)
    - Refresh every 3 hours (12:00, 15:00, 18:00, 21:00)
    - For example, when you start the mission at 14:00, it will show 60 minutes left. Thus, make sure you have at least 45 minutes left to start the time-space event.
+ - Personal Notes:
+   - Guild Members can receive rewards from **ONLY 1 time-space event daily**, but they can assist others to complete without any rewards.
+   - it randomized to reward players in the same team 1-2 Proof of Spacetime.
 
 ### Guild Banquet
   - Requirement:
@@ -29,13 +32,22 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
     - Followed by the Tasting Phase
   - Personal Notes:
     - One players maximum: 6 dishes
-    - Two players maximum: 8 dishes? (so far)
+    - Two players maximum: 9 dishes? (so far)
 
 ### Guild Battle
-  - **Not much information**
+  - Requirment:
+    - **Need Guild Master OR a Vice Guild Master Present**
+    - Need to create an at least 3 players team to registrater for Guild Battle
+    - Guild members need to stay inside guild for at least 24 hours.
+  - Time: Wednesday 19:30 - later than 20:00 (PST) 
+    - Registration Time: 19:30 - 19:55 (PST)
+    - Participation/Preparation Time: 19:55 - 20:00 (PST) (entering lobby)
+    - Battle Time: 20:00 (PST)
   - Personal Notes: 
     - Not many guild will join 
     - should forming at least a team (at least 3 players)
+    - Players will receive reward from registrating (around 3 hearts of guild) regardless of entering the battle.
+    - Any actions in the team after registration do not affect the registrating or participating team.
 
 ### Guild Hunting
   - Requirement:
