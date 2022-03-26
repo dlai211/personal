@@ -4,6 +4,7 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
 
 ## Guild Members and discord
   - [Genesis Guild Management link](https://docs.google.com/spreadsheets/d/18coYF1I-POPsKH_O7OenCPclVMi5F6l3SML-MNdXHog/edit#gid=0)
+  - [Genesis Guild Discord Invitation Link](https://discord.gg/9Q8a9uSq)
  
 ## Guild Contribution/Fund
   - 3 Methods of Obtaining Guild Power and Fund: Heart of Guild, the Proof of Spacetime, and the Memorial Emblem.
