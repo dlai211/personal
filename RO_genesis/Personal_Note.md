@@ -29,6 +29,35 @@
 - We are looking for a stagnant or dead group, where the guild has around or less than 20 members, and the guild master and vice guild masters are strong players. We can invite the entire guild to join Genesis. 
 - For the preparation, the guild fund needs to close to LVL 3 guild so that we have the leverage to bargain. Genesis guild needs to have at least 20 available spots for them to join.
 
+
+## Genesis Guild
+- **Goal: create balance and stability to make a communal contribution.**
+### Why Join?
+ - More efficiently form a party to support or even carry out the mission with familiar people, like friends or guild members.
+ - More material benefits, such as guild vending machine, guild auction, or simply gathering weekly benefits.
+ - Randomly clicked and joined Genesis due to our auto-accepting options.
+### Why Leave?
+ - Receive an invitation from a better guild.
+ - The current guild does NOT match their expectations.
+ - Quit the game, eventually booted for being inactive.
+#### Thus, the guild should become a strong, healthy, communicative, and supportive community to make guild members worth staying.
+### Topic about casual players
+ - Must control the portion of casual players in the guild.
+ - A guild with all casual players will cease to advance since they don’t have a tendency towards a goal but rather go with the flow. 
+ - respect their decisions for not over socializing. 
+#### We currently have a large base of casual players, which eventually leads to three outcomes.
+ - 1st outcome: new players gradually become pros. But it takes a long and painful process, where only a few players in the guild can support them to Story of Sage and hhn. It also increases the difference between us and elite guild.
+ - 2nd outcome: too many players quit the game because they feel that staying in this community is pointless or for other reasons.
+ - 3rd outcome: actively recruiting high-level players. Due to the low number of no-guild high-level wild players around, combining two guilds to form a stronger community is the best and most efficient method I can perceive. It speeds up the process to reach **a balance between active players and casual players** and **stability for the guild**, resulting in higher significant communal development much more than individual contribution. 
+
+### What we need?
+ - Need large crowds of guild members.
+ - have an elite group to represent the guild or be the face of the guild to captivate more stronger players.
+   - To recognize a guild, crowds tend to look for outstanding players in the guild. For instance, a few of the players in Bliss guild was dominating themed party last Sunday, which becomes advisement for recruiting more strong players to their guild.
+ - Need to reach level 3 guild as quick as possible. Since this is difficult to achieve, it becomes a standard to differentiate between startup guild and developed guild.
+
+
+ 
 ## Abbreviation
 ### MVP
  - GTB: Golden Thief Bug
