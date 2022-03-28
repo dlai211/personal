@@ -28,3 +28,23 @@
 - A guild member leaves Genesis Guild so that one can further investigate details about other guilds - such as the current level of the guild, the number of strong and valuable players, communication, etc - in an attempt to combine two guilds together. 
 - We are looking for a stagnant or dead group, where the guild has around or less than 20 members, and the guild master and vice guild masters are strong players. We can invite the entire guild to join Genesis. 
 - For the preparation, the guild fund needs to close to LVL 3 guild so that we have the leverage to bargain. Genesis guild needs to have at least 20 available spots for them to join.
+
+## Abbreviation
+### MVP
+ - GTB: Golden Thief Bug
+ - OH: Orc Hero
+ - OL: Orc Lord 
+ - GL: Goblin Leader
+ - MF or Moon: Moonlight Flower
+ - OB: Owl Baron
+ - BK: Bloody Knight
+ - DL: Dark Lord
+### World Chat
+ - wc: World Chat
+ - lfm and lfp: looking for match, looking for party
+ - hhn: Trial of Helhelm
+ - hhh: Helhelm Challenge
+ - ec: Extreme Challenge
+ - et: Endless Tower
+ - Ygg or Duo Ygg: Battle of Yggdrasil or Duo Battle of Yggdrasil
+ - woe: War of Emperium
