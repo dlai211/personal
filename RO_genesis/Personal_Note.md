@@ -8,13 +8,13 @@
 - As the size of the Genesis guild grows, it is expected for the name Genesis to show up more frequently in the joining guild list, resulting in more players (mostly new and returning) joining the Genesis guild due to the game mechanism. (my data supports this assumption).
 - P.S. Since approximately half of the new players are testing the game out or for other reasons, they will be inactive in a week. It **requires higher guild position** players to spot out those players and make the tough decision as the available seats in the guild are approaching the capacity limit. 
 
-### Step 2: Combining the Guild
+### Step 2: Combining the Guilds
 #### Problem: valuable and strong guild members is less than 1/3 in Genesis Guild
 - Definition in terms of RO:
   - valid guild members: 
     - Active Genesis Guild Members who need to be online once every 2 days except for specific reasons. 
     - Contribute at least 100,000 Guild Fund  (10 Hearts of Guild) in a week. 
-    - Not an alt account from other guilds.
+    - Not an alt account/a spy from other guilds.
   - valuable guild members: 
     - Must be a valid guild member. 
     - At least LVL 70 players with at least 1 purple gear in the weapon or armor slots. 
@@ -25,4 +25,6 @@
     - At least lvl 85 players with purple gears in all 4 weapon and armor slots.
     - Contribute at least 500,000 Guild Fund weekly. 
     - A support and guide for new join guild members.
--  
+- A guild member leaves Genesis Guild so that one can further investigate details about other guilds - such as the current level of the guild, the number of strong and valuable players, communication, etc - in an attempt to combine two guilds together. 
+- We are looking for a stagnant or dead group, where the guild has around or less than 20 members, and the guild master and vice guild masters are strong players. We can invite the entire guild to join Genesis. 
+- For the preparation, the guild fund needs to close to LVL 3 guild so that we have the leverage to bargain. Genesis guild needs to have at least 20 available spots for them to join.
