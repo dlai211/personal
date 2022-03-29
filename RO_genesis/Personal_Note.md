@@ -43,12 +43,13 @@
 #### Thus, the guild should become a strong, healthy, communicative, and supportive community to make guild members worth staying.
 ### Topic about casual players
  - Must control the portion of casual players in the guild.
- - A guild with all casual players will cease to advance since they don’t have a tendency towards a goal but rather go with the flow. 
- - respect their decisions for not over socializing. 
-#### We currently have a large base of casual players, which eventually leads to three outcomes.
- - 1st outcome: new players gradually become pros. But it takes a long and painful process, where only a few players in the guild can support them to Story of Sage and hhn. It also increases the difference between us and elite guild.
- - 2nd outcome: too many players quit the game because they feel that staying in this community is pointless or for other reasons.
- - 3rd outcome: actively recruiting high-level players. Due to the low number of no-guild high-level wild players around, combining two guilds to form a stronger community is the best and most efficient method I can perceive. It speeds up the process to reach **a balance between active players and casual players** and **stability for the guild**, resulting in higher significant communal development much more than individual contribution. 
+ - A guild with all casual players will cease to advance since they don’t have a tendency towards a goal but rather go with the flow AND have a higher probability 
+leave the guild or the game anytime, creating instability in the guild community.
+ - Must respect their decisions for not over socializing. 
+#### We currently have a large base of casual players, which eventually leads to three outcomes. (look 1st and 2nd outcome if we don't change anything)
+ - 1st outcome (high probability): new players gradually become pros. But it takes a long and painful process, where only a few players in the guild can support them to Story of Sage and hhn. It also increases the difference between us and elite guild.
+ - 2nd outcome (possible): too many players quit the game because they feel that staying in this community is pointless or for other reasons.
+ - 3rd outcome (high success rate): actively recruiting high-level players. Due to the low number of no-guild high-level wild players around, combining two guilds to form a stronger community is the best and most efficient method I can perceive. It speeds up the process to reach **a balance between active players and casual players** and **stability for the guild**, resulting in higher significant communal development much more than individual contribution. 
 
 ### What we need?
  - Need large crowds of guild members.
