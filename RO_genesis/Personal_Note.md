@@ -59,22 +59,4 @@ leave the guild or the game anytime, creating instability in the guild community
 
 
  
-## Abbreviation
-### MVP
- - GTB: Golden Thief Bug
- - OH: Orc Hero
- - OL: Orc Lord 
- - GL: Goblin Leader
- - MF or Moon: Moonlight Flower
- - OB: Owl Baron
- - BK: Bloody Knight
- - DL: Dark Lord
-### World Chat
- - wc: World Chat
- - lfm and lfp: looking for match, looking for party
- - hhn: Trial of Helhelm
- - hhh: Helhelm Challenge
- - ec: Extreme Challenge
- - et: Endless Tower
- - Ygg or Duo Ygg: Battle of Yggdrasil or Duo Battle of Yggdrasil
- - woe: War of Emperium
+
