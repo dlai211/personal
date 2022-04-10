@@ -1,4 +1,4 @@
-# Prontera Areas
+# Prontera Areas (22 porings discovered so far)
  - Notes: You can turn the Graphic to low so it does NOT show grass.
 ## Prontera
 
@@ -80,6 +80,12 @@
 ### Drops (click the poring)
 ![image](https://user-images.githubusercontent.com/72419337/162607773-274f8cda-7389-4d01-b1b5-8538b65aad5e.png)
 ![image](https://user-images.githubusercontent.com/72419337/162607784-728a9e87-e3e4-4423-882e-5b2f76a0f558.png)
+
+## Larva Canyon
+
+### Meow Poring (follow the footprint)
+![image](https://user-images.githubusercontent.com/72419337/162633232-aabfb32e-0c54-4590-9cd9-35987c080afc.png)
+
 
 
 
