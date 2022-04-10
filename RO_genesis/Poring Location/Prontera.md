@@ -65,6 +65,9 @@
 
 ## Poring Island
 
+### Henring (click the poring)
+![image](https://user-images.githubusercontent.com/72419337/162633069-a4598bbd-a3b6-4084-914b-e6b3d92a5b68.png)
+![image](https://user-images.githubusercontent.com/72419337/162633079-63cef7fd-0215-4d41-9f4c-a19df6d15a8f.png)
 ### Rabbitring (click the poring)
 ![image](https://user-images.githubusercontent.com/72419337/162607927-26a6848c-6558-4094-9dbe-9c08b60f5fd9.png)
 ![image](https://user-images.githubusercontent.com/72419337/162607940-d8e5aa05-81da-4f0b-9070-aa54811540b5.png)
