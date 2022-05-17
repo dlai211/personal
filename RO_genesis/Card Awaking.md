@@ -1,5 +1,7 @@
 # Card Awaking/Promotion
 ## [Reference Website](https://imgur.com/a/weFJevo)
+![image](https://user-images.githubusercontent.com/72419337/168821018-9e945eaf-a9bc-4e6d-9469-3b599ce00837.png)
+
 ## Weapons
 ![image](https://user-images.githubusercontent.com/72419337/168486289-4fe7a9b4-4d5c-4772-ad84-4886efe77167.png)
 ![image](https://user-images.githubusercontent.com/72419337/168486302-b97e22ba-7aa4-435a-8d56-d43450e99c28.png)
