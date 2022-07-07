@@ -4,10 +4,12 @@
  - OH: Orc Hero
  - OL: Orc Lord 
  - GL: Goblin Leader
- - MF or Moon: Moonlight Flower
+ - MF or Moonie: Moonlight Flower
  - OB: Owl Baron
  - BK: Bloody Knight
  - DL: Dark Lord
+ - SK: Stormy Knight
+ - TM: Time Manager
 ### World Chat
  - wc: World Chat
  - lfm & lfp: looking for match, looking for party
