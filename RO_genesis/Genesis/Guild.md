@@ -1,4 +1,4 @@
-# Guild
+# Guild (not updating)
 Guild Fund to Level 3 Current Progress (03/20/2022): 
  - 700,000,000/945,900,000
 
@@ -9,7 +9,7 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
 ## Guild Contribution/Fund
   - 3 Methods of Obtaining Guild Power and Fund: Heart of Guild, the Proof of Spacetime, and the Memorial Emblem.
   - Personal Daily Theoretical Maximum
-    - 80 Commission Tickets (6-8 Hearts of Guild) + time-space event (1-2 Proof of Spacetime) + Guild Hunt (unknown)
+    - 80 Commission Tickets (6-8 Hearts of Guild) + time-space event (1-2 Proof of Spacetime) + Guild Hunt (≥ 3 hearts for participation)
 ## Guild Event
  - Time-Space event, Guild Hunting, Guild Banquet, Guild Battle, War of Emperium
 ### Guild Time-Space Event
@@ -69,4 +69,5 @@ Guild Fund to Level 3 Current Progress (03/20/2022):
 ### War of Emperium
  - Requirement:
   - Guild needs to reach level 3.
+  - can obtain 2000 woe gem fragments for item trade at guild
   - **Not much information**
