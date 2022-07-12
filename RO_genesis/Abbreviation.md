@@ -14,6 +14,7 @@
  - wc: World Chat
  - lfm & lfp: looking for match, looking for party
  - fs: full support
+ - ks: kill steal
 ### Event
  - hhn: Trial of Helhelm
  - hhh: Helhelm Challenge
