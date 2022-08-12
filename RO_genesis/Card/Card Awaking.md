@@ -1,4 +1,6 @@
 # Card Awaking/Promotion
+
+## [Google Sheet form](https://docs.google.com/spreadsheets/d/1J7l87ZXu6wk6OgNgsL2EjSVpoVgIdTFUSyyxMB0VXeY/edit#gid=402821439)
 ## [Reference Website](https://imgur.com/a/weFJevo)
 ![image](https://user-images.githubusercontent.com/72419337/168821018-9e945eaf-a9bc-4e6d-9469-3b599ce00837.png)
 
