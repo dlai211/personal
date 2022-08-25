@@ -1,5 +1,6 @@
 # Card Drop Rate 
-## Source 
- - https://ragnarokorigin-news.com/drop-rate/
-![image](https://user-images.githubusercontent.com/72419337/181138987-83ab75ab-d7a8-429b-907c-9942d19600a0.png)
-![image](https://user-images.githubusercontent.com/72419337/181138800-402f66a1-4327-4432-b517-3d5796c497e1.png)
+ - Source: https://ragnarokorigin-news.com/drop-rate/
+
+![image](https://user-images.githubusercontent.com/72419337/186713179-a472dacf-b534-4370-9aaf-053fcf97bdd6.png)
+![image](https://user-images.githubusercontent.com/72419337/186713206-98248b44-789d-4ee3-b05b-5c293e4ef5bb.png)
+
