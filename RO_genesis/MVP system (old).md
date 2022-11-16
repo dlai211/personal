@@ -1,4 +1,4 @@
-# MVP Point System
+# MVP Point System (Note: this MVP system is no longer applicable to current RO)
 ## Introduction
 Did you ever wonder why is it that you lost the MVP kill to another team party when you were so sure about getting it? Here I am explaining how the MVP Point System works and why it is almost impossible to beat other team parties in MVP solo.
 
