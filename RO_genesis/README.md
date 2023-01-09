@@ -1,6 +1,6 @@
-# Welcome to Genesis Guild (alliance with SectorSeven)
+# Welcome to SectorSeven
 ## Desciption 
-### [New] With alliance relationship with SectorSeven guild, the data is accessible for all members in both Genesis guild & SectorSeven.
+### [New] The data is accessible for all members in SectorSeven Guild.
 
 #### [Old] This is a page where I record personal notes & Genesis guild data to scientifically analyze any correlations, predict the trend with uncertainty, and decide the priority list for the guild to create the most efficient strategy to revive/develop the guild.
 
