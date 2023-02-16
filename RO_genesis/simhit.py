@@ -241,9 +241,9 @@ for i in range(len(pos_time)):
     end = time.time()
     lag = end - sta
     #print(f'lag time {lag}')
-    sleep_time = pos_time[i+1][1] - pos_time[i][1] - lag #- lag2
+    sleep_time = pos_time[i+1][1] - pos_time[i][1] - lag - lag2
     if sleep_time > 0:
         time.sleep(sleep_time)
-    #lag2 = time.time() - end - sleep_time
+    lag2 = time.time() - end - sleep_time
     #print(f'2nd lag {time.time() - end - sleep_time}')
     sta = time.time()
