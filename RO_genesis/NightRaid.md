@@ -2,7 +2,7 @@
 
 NightRaid guild consists of approximately 50 active members, led by the Guild Master, Miirim, a mastersmith. The guild has been able to maintain consistent participation in guild events, which is commendable. However, one notable weakness of the NightRaid guild is the lack of strong players.
 
-The presence of several alt accounts where their main is part of major guilds, such as MrWet, aaaasunnnnn, Miikosaur, and Merciless, may also be a contributing factor to the limited number of strong players in NightRaid. While having alt accounts is a common practice in the game, it can impact the overall strength of a guild.
+The presence of several alt accounts where their main is part of major guilds, such as MrWet and Merciless, may also be a contributing factor to the limited number of strong players in NightRaid. While having alt accounts is a common practice in the game, it can impact the overall strength of a guild.
 
 That said, NightRaid does have some active and strong players, such as curry, cowslap, 20oz, and Miirim. These players are assets to the guild and can help in achieving guild objectives. There are also less active but strong players like Minkk, aaaasunnnn, and MrWet, who may not be as present in guild activities but can still contribute positively to the guild.
 
