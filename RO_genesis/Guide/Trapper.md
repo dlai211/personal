@@ -1,4 +1,4 @@
-# Trapper Guide (self-made & currently in development)
+# Trapper Guide (self-made & stop updating)
 
 ## Traps Property 
 
