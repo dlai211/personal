@@ -1,5 +1,15 @@
 # Sniper Guide
 
+## Outside Tip for ATK
+ - outside tips to increase atk: 
+ - pet (can increase around 500-600 atk)
+ - LK stone imprint (atk +1.5%), mage stone imprint (matk +1.5%)
+ - mount character upgrade (+252 atk/matk when 900 courage)
+ - Emperium (can have up to 105 atk)
+ - metal (+6 atk/matk per upgrade, slow later game)
+ - card collection (40k, 80k cards for +5 atk, purple cards for +12 atk)
+ - feathers (increase dex or str, can have +7 dex/str at lv 18-20)
+
 ## SharpShooter
 - These are some interesting facts about SS that I don't have the motivation to make that video.
   1. Target limit: (adl) falcon can hit at most 10 mobs in pve, Sharpshooter can hit at most 10 mobs in pve, Sharpshooter can hit at most 5 targets in PVP.
