@@ -2,137 +2,193 @@
     box-sizing: border-box;
 }
 
-:root {
-    --cell-size: 100px;
-    --mark-size: calc(var(--cell-size) * .8)
+
+.game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 40vh; /* Center the game vertically within the viewport */
+    padding: 100px 0;
+}
+
+.board-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
 }
 
 body {
     margin: 0;
+    background-color: var(--black);
+    padding-bottom: 100vmin;
 }
 
-.board {
-    width: 100vw;
-    height: 100vh;
-    display: grid;
+h1, h2{
+    font-size: 8vmin;
+    font-family: 'Finger Paint', cursive;
+    text-transform: uppercase;
+    color: var(--orange);
+}
+
+h2 {
+    font-size: 5.5vmin;
+}
+
+button {
+    padding: 1.4vmin 2.6vmin;
+    border-radius: 14px;
+    background-color: var(--orange);
+    color: #333;
+    border-color: var(--orange);
+    font-size: 2vmin;
+    transition: 200ms transform;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+
+.player-pieces, .ai-pieces {
+    display: flex;
     justify-content: center;
-    align-content: center;
-    justify-items: center;
-    align-items: center;
-    grid-template-columns: repeat(3, auto);
+    align-items: flex-end;
+    gap: 1.6vmin;
 }
 
-.cell {
-    width: var(--cell-size);
-    height: var(--cell-size);
-    /* background-color: black; */
-    border: 1px solid black;
+.player, .ai {
+    position: relative;
+    margin: 0px 0px 20px 0px;
+    cursor: grab;
+}
+
+/* .player {
+    cursor: grab;
+} */
+
+/* .ai {
+    cursor: not-allowed;
+} */
+
+.player:active, .ai:active {
+    cursor: grabbing;
+}
+
+.ai.big {
+    width: var(--big-size);
+    height: var(--big-size);
+    background-image: url('ai_chicken_big.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ai.medium {
+    width: var(--medium-size);
+    height: var(--medium-size);
+    background-image: url('ai_chicken_medium.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ai.small {
+    width: var(--small-size);
+    height: var(--small-size);
+    background-image: url('ai_chicken_small.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.player.big {
+    width: var(--big-size);
+    height: var(--big-size);
+    background-image: url('player_chicken_big.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.player.medium {
+    width: var(--medium-size);
+    height: var(--medium-size);
+    background-image: url('player_chicken_medium.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.player.small {
+    width: var(--small-size);
+    height: var(--small-size);
+    background-image: url('player_chicken_small.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.player-text, .ai-text {
+    font-size: var(--text-size);
+    font-family: 'Finger Paint', cursive;
+    margin: 0px 20px 15px 3px;
+    /* margin-right: 20px;
+    margin-left: 3px; */
+}
+
+.player-text {
+    color: rgb(17, 88, 146);
+}
+
+.ai-text {
+    color: rgb(180, 91, 212);
+}
+
+
+/* starting message  */
+.starting-message {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95); /* Black background with some transparency */
+    z-index: 1000; /* Make sure it's on top of everything */
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
-    cursor: pointer;
+    flex-direction: column;
 }
 
-.cell:first-child,
-.cell:nth-child(2),
-.cell:nth-child(3) {
-    border-top: none;
+.overlay-content {
+    text-align: center;
+    color: white;
 }
 
-.cell:nth-child(3n + 1) {
-    border-left: none;
+.button-container {
+    margin-top: 3vmin;
 }
 
-.cell:nth-child(3n + 3) {
-    border-right: none;
+/* Blue button for the player */
+.blue-button {
+    background-color: var(--player-color-medium);
+    color: white;
+    margin-right: 8vmin;
 }
 
-.cell:last-child,
-.cell:nth-child(8),
-.cell:nth-child(7) {
-    border-bottom: none;
-}
-
-
-.cell.x,
-.cell.circle {
-    cursor: not-allowed;
-}
-
-.cell.x::before,
-.cell.x::after,
-.cell.circle::before,
-.cell.circle::after {
-    background-color: black;
+/* Purple button for the AI */
+.purple-button {
+    background-color: var(--ai-color-medium);
+    color: white;
 }
 
 
-.board.x .cell:not(.x):not(.circle):hover::before, 
-.board.x .cell:not(.x):not(.circle):hover::after,
-.board.circle .cell:not(.x):not(.circle):hover::before, 
-.board.circle .cell:not(.x):not(.circle):hover::after {
-    background-color: lightgray;
+.thinking {
+    cursor: progress;
 }
 
-
-
-.cell.x::before,
-.cell.x::after,
-.board.x .cell:not(.x):not(.circle):hover::before,
-.board.x .cell:not(.x):not(.circle):hover::after {
-    content: '';
-    position: absolute;
-    width: calc(var(--mark-size) * .15);
-    height: var(--mark-size);
-    /* background-color: black; */
-}
-
-.cell.x::before,
-.board.x .cell:not(.x):not(.circle):hover::before{
-    transform: rotate(45deg);
-}
-
-.cell.x::after,
-.board.x .cell:not(.x):not(.circle):hover::after{
-    transform: rotate(-45deg);
-}
-
-
-
-
-
-
-
-
-
-.cell.circle::before,
-.cell.circle::after,
-.board.circle .cell:not(.x):not(.circle):hover::before,
-.board.circle .cell:not(.x):not(.circle):hover::after {
-    content: ' ';
-    position: absolute;
-    border-radius: 50%;
-}
-
-.cell.circle::before,
-.board.circle .cell:not(.x):not(.circle):hover::before {
-    width: var(--mark-size);
-    height: var(--mark-size);
-    /* background-color: black; */
-}
-
-.cell.circle::after,
-.board.circle .cell:not(.x):not(.circle):hover::after {
-    width: calc(var(--mark-size) * .7);
-    height: calc(var(--mark-size) * .7);
-    background-color: white;
-}
-
-
-
-
-
+/* winning message  */
 
 .winning-message{
     display: none;
@@ -165,7 +221,3 @@ body {
 }
 
 
-
-.winning-message.show {
-    display: flex;
-}

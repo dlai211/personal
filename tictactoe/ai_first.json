@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Alice",
+        "age": 30,
+        "languages": ["English", "Spanish"]
+    },
+    {
+        "name": "Bob",
+        "age": 18,
+        "languages": ["English"]
+    },
+    {
+        "name": "Charlie",
+        "age": 16,
+        "languages": ["English", "French"]
+    }
+]
